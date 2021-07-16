@@ -1,0 +1,9 @@
+.local{
+    margin-bottom: 10px;
+    border: none;
+    width: 294px;
+    border-top: 1px solid rgb(129, 2, 129);
+    color:rgb(129, 2, 129);
+    display: flex;
+    background: #222222;
+}
