@@ -9,7 +9,7 @@ import './App.css'
 const App = () => {
   return (
     <div className='box'>
-      <div className='coluna '>
+      <div className='coluna left'>
         <Title>Floside Pop Hotel</Title>
         <Label>Arrival</Label>
         <Campos className='local'>Feb 4th, 2019 at 7:30pm</Campos>

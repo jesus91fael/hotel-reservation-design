@@ -1,9 +1,12 @@
 .fundo{
     width: 400px;
     margin: 0 auto;
+    
 }
 
 img{
     width: 100%;
-    min-height: 332.156px;    
+    min-height: 345px; 
+    clip-path: polygon(8% 0%, 100% 0%, 100% 100%, 0% 100%); 
 }
+
